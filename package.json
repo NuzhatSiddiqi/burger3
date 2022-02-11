@@ -21,7 +21,7 @@
     "balanced-match": "^1.0.0",
     "es": "^0.7.3",
     "express": "^4.17.1",
-    "express-handlebars": "^3.1.0",
+    "express-handlebars": "^5.3.1",
     "mysql": "^2.17.1",
     "mysql2": "^1.6.5",
     "todo": "^1.1.0",
